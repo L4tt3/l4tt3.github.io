@@ -3,17 +3,17 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:            BlackDoc
-tagline:          Black Theme for Jekyll
-description:      "A two-column black theme with a scrolling sidebar. Ideal for sites requiring a master-detail layout, e.g. documentation, cheatsheets, lyrics, notes..."
-url:              https://github.com/karloespiritu/blackdoc
+title:            Blog
+tagline:          blog too difficult
+description:      "my blog"
+url:              https://l4tt3.github.io/
 baseurl:          /
                   # the optional subpath of your site, e.g. "/my-jekyll-site/"
                   # This will apply to all pages in your Jekyll site.
 
 author:
-  name:           Karlo Espiritu
-  url:            https://twitter.com/karloespiritu
+  name:           L4tt3
+  url:            https://www.fib-warning.tistory.com
 
 paginate:         5
 # paginate_path:    '/page:num'
